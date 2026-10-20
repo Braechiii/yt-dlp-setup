@@ -1,0 +1,7 @@
+*.exe
+*.zip
+cookies.txt
+out/*
+!out/.gitkeep
+Thumbs.db
+desktop.ini
